@@ -34,7 +34,7 @@ Hey! I'm Vashalika, a Computer Science Engineering student passionate about codi
   <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=40E0D0" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=40E0D0" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=40E0D0" alt="MySQL" />
-</p>---
+</p>
 
 💼 Featured Projects
 
@@ -61,7 +61,7 @@ Hey! I'm Vashalika, a Computer Science Engineering student passionate about codi
       <p><a href="https://github.com/Vashalika/leetcode-daily-challenge">View Coding Repository ↗</a></p>
     </td>
   </tr>
-</table>---
+</table>
 
 📈 GitHub Analytics
 
@@ -70,7 +70,7 @@ Hey! I'm Vashalika, a Computer Science Engineering student passionate about codi
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashalika&layout=compact&hide_border=true&bg_color=080D0F&title_color=40E0D0&text_color=E0FFFF" alt="Most used languages" />
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=Vashalika&hide_border=true&background=080D0F&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&sideLabels=E0FFFF&dates=8A9A9A&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-</p>---
+</p>
 
 🧩 Coding Profiles
 
@@ -87,7 +87,7 @@ Hey! I'm Vashalika, a Computer Science Engineering student passionate about codi
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-080D0F?style=for-the-badge&logo=linkedin&logoColor=40E0D0" alt="LinkedIn profile" />
   </a>
-</p>---
+</p>
 
 🎯 Current Goals
 
@@ -97,7 +97,7 @@ Hey! I'm Vashalika, a Computer Science Engineering student passionate about codi
 - 🗄️ Learn how websites connect with databases
 - 🚀 Create projects that demonstrate real skills
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071112,50:0D4545,100:40E0D0&height=120&section=footer" alt="Teal wave footer" />
