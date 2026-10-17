@@ -60,5 +60,6 @@ Replace the sample name and profile links with your own details.
 Update project descriptions and repository links to match your actual work.
 
 ## Author
+Vashalika
 
 Your Name
