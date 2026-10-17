@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Theme-Black%20%2B%20Teal-40E0D0?style=for-the-badge" alt="Black and teal theme" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-111111?style=for-the-badge&logo=html5&logoColor=40E0D0" alt="Web development" />
   <img src="https://img.shields.io/badge/DSA-Practice-111111?style=for-the-badge&logo=leetcode&logoColor=40E0D0" alt="DSA practice" />
-</p>---
+</p>
 
 ✨ About Me
 
